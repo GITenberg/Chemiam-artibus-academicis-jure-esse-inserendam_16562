@@ -1,0 +1,34 @@
+_repo: Chemiam-artibus-academicis-jure-esse-inserendam_16562
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gaubius, Hieronymus David
+    aliases:
+    - Gaube, Hieronymus David
+    - Gaubius, Hieronymous Davides
+    - Gaubius, Jerome David
+    - Gaubius, Jérôme David
+    - Gaubius, H. D. (Hieronymus David)
+    deathdate: 1780
+    gutenberg_agent_id: '6790'
+    url: http://www.gutenberg.org/2009/agents/6790
+    wikipedia: http://en.wikipedia.org/wiki/Hieronymus_David_Gaubius
+description: ''
+gutenberg_bookshelf: Chemistry
+gutenberg_issued: '2005-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16562'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QD'
+- !lcsh 'Chemistry -- Study and teaching -- Early works to 1800'
+- !lcsh 'Chemistry -- Early works to 1800'
+title: Chemiam artibus academicis jure esse inserendam
+url: http://www.gutenberg.org/ebooks/16562
